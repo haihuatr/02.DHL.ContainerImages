@@ -5,7 +5,7 @@ export MY_fixTag="22-06-08"
 export MY_SUIF_TAG=${MY_SUIF_TAG:-"v.0.3.0"} # Expect this to be a pipeline parameter
 export MY_MSR_template="MSR/1011/lean"
 export MY_UM_template="UM/1011/RealmServer"
-export AZ_ACR_URL="dhlazdevopsacr8.azurecr.io"
+export AZ_ACR_URL="dhlazdevopsacr1.azurecr.io"
 export AZ_ACR_REPO_NAME="sag-lean-msr_1011"
 export AZ_ACR_UMRS_REPO_NAME="sag-um-realm-server_1011"
 
